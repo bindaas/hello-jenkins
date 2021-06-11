@@ -4,7 +4,7 @@ package com.oneskool.cicd;
  * Hello world!
  *
  */
-public class App".FORCEDERROR"
+public class App
 {
     public static void main( String[] args )
     {
