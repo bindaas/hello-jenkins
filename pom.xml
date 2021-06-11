@@ -77,12 +77,12 @@
           <configuration>
             <archive>
               <manifest>
-                <mainClass>com.baeldung.jar.JarExample</mainClass>
+                <mainClass>com.oneskool.cicd.App</mainClass>
               </manifest>
             </archive>
           </configuration>
         </plugin>
-        
+
       </plugins>
     </pluginManagement>
   </build>
